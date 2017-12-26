@@ -1,10 +1,10 @@
-# logic-assig
+# Prolog Assignment
 Completed in partial fulfillment of  CS F214 Logic in Computer Science course
 
 > Group members: 
-1. Aman Agrawal(2014B3A7748P)
-2. Amitojdeep Singh(2014B3A7615P)
-3. Siddharth Nagpal(2014B3A7743P)
+> 1. Aman Agrawal(2014B3A7748P)
+> 2. Amitojdeep Singh(2014B3A7615P)
+> 3. Siddharth Nagpal(2014B3A7743P)
 
 /*DOCUMENTATION FOR QUESTION1*/
 
